@@ -7,12 +7,49 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+A movie finder based on the streaming services selected. A user should be able to save movies to their profile as a “to-do” list.
 ### Features
-Include Features here
+User login:
+	Profile management
+	Authentication
+
+UI:
+	Mobile responsive
+User list of movies:
+	Add to list
+	Remove from list after watching
+	Share
+	Table that is filter/sortable
+Movie search page:
+	Options:
+	Search text box
+	Should work while empty
+	Selector of streaming services
+	Netflix, Hulu, HBOMax, Disney+, Amazon Prime
+	Specific actors
+	All movies available to you in alphabetical order
+	Genre
+	Rating (G, PG, PG-13, R)
+	Year released
+
+
+Search Results page:
+	filter/sort
+Movie Details page:
+	ALL movie info, not just basics on search result or user list tables
+	Can redirect to here from user list or search results
+
+Blue = Non-MVP
+
 ### Technologies
-Include Technologies here
+JavaScript
+React
+Visual Studio Code
+MySQL
+Postman (test API)
+C#
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+React
 ### Project Tracker
-Link to your Trello board here
+hhttps://trello.com/b/WfPiNOx0/liftoff-project
